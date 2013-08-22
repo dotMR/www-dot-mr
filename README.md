@@ -1,2 +1,2 @@
-wwwdotmr
+www(dot)mr
 ========
